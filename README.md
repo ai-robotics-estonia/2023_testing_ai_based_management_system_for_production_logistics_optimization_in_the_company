@@ -1,14 +1,14 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with it's actual title.*
 
-# [Demonstration Project title]
+# Tehisintellektil põhineva  juhtimissüsteemi arendus tootmislogistika efektiivseks korraldamiseks ettevõttes CHEMI-PHARM 
 
 ## Summary
 
-| Company name | [Company](https://website.link) |
-| :--- | :--- |
-| Development Team Lead Name | [First name, Surname](https://profile.link) |
-| Development Team Lead e-mail | [Team Member 1](https://profile.link) |
-| Objectives of the Demonstration Project |  |
+| Company name | [TALLINNA TEHNIKAÜLIKOOL](https://taltech.ee/)                    |
+| :--- |:-------------------------------------------------------------------|
+| Development Team Lead Name | [First name, Surname](https://profile.link)                        |
+| Development Team Lead e-mail | [Team Member 1](https://profile.link)                              |
+| Objectives of the Demonstration Project |                                                                    |
 
 # Each project has an alternative:
 
