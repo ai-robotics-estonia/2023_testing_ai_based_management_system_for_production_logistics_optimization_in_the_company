@@ -4,10 +4,10 @@
 | Company name                            | [TALLINNA TEHNIKAÜLIKOOL](https://taltech.ee/)                                                                                                                                                          |
 |:----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Development Team Lead Name              | [Tõnis, Raamets](https://taltech.ee/kontaktid/tonis-raamets)                                                                                                                                            |
-| Development Team Lead e-mail            | [tonis.raamets@taltech.ee](tonis.raamets@taltech.ee)                                                                                                                                                    |
+| Development Team Lead e-mail            | tonis.raamets@taltech.ee                                                                                                                                                                                |
 | Objectives of the Demonstration Project | Organizing and visualizing the company's daily based production logistics through the smart AI based management system, which help to increase production capacity and production processes efficiency. |
 
-# Kirjeldus:
+# Description:
 
 The title of the project is "AI based management system development for production 
 logistics optimization in the company". The challenge of the project was to organize 
