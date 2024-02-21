@@ -1,7 +1,7 @@
-# AI based management system development for production logistics optimization in the company
+# Testing of AI based management system development for production logistics optimization in the company
 ## Summary
 
-| Company name                            | [TALLINNA TEHNIKAÜLIKOOL](https://taltech.ee/)                                                                                                                                                          |
+| Company name                            | [Chemi-Pharm](https://www.chemi-pharm.com/et//)                                                                                                                                                          |
 |:----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Development Team Lead Name              | [Tõnis, Raamets](https://taltech.ee/kontaktid/tonis-raamets)                                                                                                                                            |
 | Development Team Lead e-mail            | tonis.raamets@taltech.ee                                                                                                                                                                                |
