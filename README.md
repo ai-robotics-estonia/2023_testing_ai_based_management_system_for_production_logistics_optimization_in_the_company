@@ -41,7 +41,7 @@ functionality that connected the raw material warehouse, production lines, and f
 goods warehouse, as well as the introduction of a smart transportation task 
 management system that minimized the need for intermediate storage areas on the 
 factory floor. In this way, the demo project ensured a smooth and fast material and 
-information flow throughout the entire production cycle, which resulted in incre
+information flow throughout the entire production cycle, which resulted in increased productivity, reduced costs and optimal fulfillment of transportation tasks.
 
 *Data sources (which data was used for the technological solution)*
 
